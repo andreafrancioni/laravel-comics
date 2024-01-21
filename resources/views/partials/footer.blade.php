@@ -83,8 +83,6 @@
         height: 100%;
     }
 
-    img {}
-
     .col-6 {
         height: 100%;
     }
