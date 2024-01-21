@@ -10,3 +10,18 @@
         @endforeach
     </div>
 </section>
+
+<style>
+    .singleCard img {
+        width: 8em;
+    }
+
+    .singleCard {
+        background-color: #303030;
+        color: white;
+    }
+
+    .singleCard h3 {
+        font-size: 1em;
+    }
+</style>
