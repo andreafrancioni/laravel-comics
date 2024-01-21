@@ -24,7 +24,7 @@
         height: 100%;
     }
 
-    img {
+    #logo img {
         height: 60px;
     }
 
