@@ -18,6 +18,8 @@
 
     @include('partials.footer')
 
+    @include('partials.signup')
+
 </body>
 
 </html>

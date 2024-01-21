@@ -25,9 +25,10 @@
 </section>
 
 <style scoped>
-    section .bg-banner {
+    .bg-banner {
         color: white;
         height: 100px;
+
     }
 
     .comicsCard {
